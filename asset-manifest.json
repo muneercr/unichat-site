@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io.unichat-site/static/css/main.906d9089.chunk.css",
+    "main.js": "/github.io.unichat-site/static/js/main.e16b5f2a.chunk.js",
+    "main.js.map": "/github.io.unichat-site/static/js/main.e16b5f2a.chunk.js.map",
+    "runtime-main.js": "/github.io.unichat-site/static/js/runtime-main.6543e77f.js",
+    "runtime-main.js.map": "/github.io.unichat-site/static/js/runtime-main.6543e77f.js.map",
+    "static/js/2.55a0d150.chunk.js": "/github.io.unichat-site/static/js/2.55a0d150.chunk.js",
+    "static/js/2.55a0d150.chunk.js.map": "/github.io.unichat-site/static/js/2.55a0d150.chunk.js.map",
+    "index.html": "/github.io.unichat-site/index.html",
+    "precache-manifest.85d9ffe3ae22de437b1cb28160957abc.js": "/github.io.unichat-site/precache-manifest.85d9ffe3ae22de437b1cb28160957abc.js",
+    "service-worker.js": "/github.io.unichat-site/service-worker.js",
+    "static/css/main.906d9089.chunk.css.map": "/github.io.unichat-site/static/css/main.906d9089.chunk.css.map",
+    "static/js/2.55a0d150.chunk.js.LICENSE.txt": "/github.io.unichat-site/static/js/2.55a0d150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6543e77f.js",
+    "static/js/2.55a0d150.chunk.js",
+    "static/css/main.906d9089.chunk.css",
+    "static/js/main.e16b5f2a.chunk.js"
+  ]
+}
